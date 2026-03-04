@@ -1,4 +1,4 @@
-dbt_g5Ex:
+dtb_athena5g:
   target: dev
   outputs:
     dev:
