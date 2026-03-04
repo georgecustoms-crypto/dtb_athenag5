@@ -7,4 +7,4 @@ dbt_g5Ex:
       project: athenag5  # Ex: meu-projeto-data ID
       dataset: dbt_dw    # Ex: dbt_maria_julia
       threads: 4
-      keyfile: 'C:\Users\Maria Julia\Downloads\athenag5-5bd549bae638.json' # Onde você salvou o JSON do Google
+      keyfile: 'c:\Users\Maria Julia\Downloads\athenag5-5bd549bae638.json' # Onde você salvou o JSON do Google
